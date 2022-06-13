@@ -1,7 +1,7 @@
 
 
 <h1>Webserv</h1>
-Webserv is a project that simulates the behaviour of Webserver receiving HTTP requests.
+Webserv is a project that simulates the behaviour of Web servers receiving HTTP requests.
 <br>
 <br>
 <h1>HTTP</h1>
